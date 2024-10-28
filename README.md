@@ -38,7 +38,7 @@ Ensure you have the following installed on your machine:
 
 1. Clone the Repository  
    ```bash
-   git clone https://github.com/moumenahl/e-commerce.git
+   git clone https://github.com/moumenahl/e-commerce-project.git
 2. Navigate to the Project Directory
    ```bash
    cd movie-library
